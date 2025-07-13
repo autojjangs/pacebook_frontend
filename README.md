@@ -1,30 +1,6 @@
 # Pacebook App (pacebook_app)
-
-페이스북(Pacebook)은 러닝 기록 측정과 사용자 간의 커뮤니티 활동을 돕는 플러터 애플리케이션입니다.
-
-## 🚀 시작하기
-
-이 프로젝트를 로컬 환경에서 실행하려면 다음 단계를 따르세요.
-
-1.  **저장소 복제 (Clone)**
-    ```bash
-    git clone <저장소_URL>
-    ```
-
-2.  **프로젝트 폴더로 이동**
-    ```bash
-    cd pacebook_app
-    ```
-
-3.  **필요한 패키지 설치**
-    ```bash
-    flutter pub get
-    ```
-
-4.  **애플리케이션 실행**
-    ```bash
-    flutter run
-    ```
+2025-1 HY-End 재학생 프로젝트 Pacebook Front-End 레포지토리입니다.
+페이스북(Pacebook)은 러닝 기록 측정과 사용자 간의 커뮤니티 활동을 돕는 애플리케이션입니다.
 
 ## 📁 폴더 구조
 
